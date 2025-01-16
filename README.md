@@ -6,10 +6,9 @@ The **E-Learning Management System (ELMS)** is a web-based platform developed us
 ---
 
 ## **Technology Stack**  
-- **Backend:** PHP (Core PHP or Laravel/CodeIgniter for framework support)  
+- **Backend:** PHP
 - **Database:** MySQL (Relational database for managing student, faculty, and admin records)  
-- **Frontend:** HTML, CSS, JavaScript (For UI/UX)  
-- **Additional Tools:** Bootstrap (for responsive design), AJAX (for dynamic content loading)  
+- **Frontend:** HTML, CSS, JavaScript 
 
 ---
 
@@ -59,4 +58,3 @@ The **E-Learning Management System (ELMS)** is a web-based platform developed us
 - Centralized **classroom management** for institutions.  
 - **Improved communication** between faculty and students.  
 
-Would you like any additional features or specific enhancements? 🚀
